@@ -20,15 +20,12 @@ Angular (optional frontend) — Simple telemetry viewer
 
 Tested with: 8.0.416
 
-(Optional Frontend)
-
-Node.js (LTS)
-
-Angular CLI (latest)
+(Optional Frontend) - https://github.com/imatak/vehicle-telemetry-ui
 
 Verify .NET installation:
-
+```
 dotnet --version
+```
 
 ## Solution Structure
 ```

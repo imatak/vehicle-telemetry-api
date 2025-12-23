@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VehicleTelemetryApi.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c40b2eceaf1ff48541194fb8259e0084a2cb4d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00bcb95bb8d02a01c6e2240090bc9d8add5a6567")]
 [assembly: System.Reflection.AssemblyProductAttribute("VehicleTelemetryApi.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VehicleTelemetryApi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
